@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\emekHaqqi\emekHaqqi\bin\Debug\net5.0\emekHaqqi.exe
+C:\Users\User\source\repos\emekHaqqi\emekHaqqi\bin\Debug\net5.0\emekHaqqi.deps.json
+C:\Users\User\source\repos\emekHaqqi\emekHaqqi\bin\Debug\net5.0\emekHaqqi.runtimeconfig.json
+C:\Users\User\source\repos\emekHaqqi\emekHaqqi\bin\Debug\net5.0\emekHaqqi.runtimeconfig.dev.json
+C:\Users\User\source\repos\emekHaqqi\emekHaqqi\bin\Debug\net5.0\emekHaqqi.dll
+C:\Users\User\source\repos\emekHaqqi\emekHaqqi\bin\Debug\net5.0\ref\emekHaqqi.dll
+C:\Users\User\source\repos\emekHaqqi\emekHaqqi\bin\Debug\net5.0\emekHaqqi.pdb
+C:\Users\User\source\repos\emekHaqqi\emekHaqqi\obj\Debug\net5.0\emekHaqqi.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\emekHaqqi\emekHaqqi\obj\Debug\net5.0\emekHaqqi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\emekHaqqi\emekHaqqi\obj\Debug\net5.0\emekHaqqi.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\emekHaqqi\emekHaqqi\obj\Debug\net5.0\emekHaqqi.AssemblyInfo.cs
+C:\Users\User\source\repos\emekHaqqi\emekHaqqi\obj\Debug\net5.0\emekHaqqi.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\emekHaqqi\emekHaqqi\obj\Debug\net5.0\emekHaqqi.dll
+C:\Users\User\source\repos\emekHaqqi\emekHaqqi\obj\Debug\net5.0\ref\emekHaqqi.dll
+C:\Users\User\source\repos\emekHaqqi\emekHaqqi\obj\Debug\net5.0\emekHaqqi.pdb
+C:\Users\User\source\repos\emekHaqqi\emekHaqqi\obj\Debug\net5.0\emekHaqqi.genruntimeconfig.cache
