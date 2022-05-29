@@ -71,8 +71,17 @@ namespace emekHaqqi
                 {
                     Console.WriteLine("Uşağınız olmadığı üçün elave ödeniş almırsınız . ");
                 }
-                Console.WriteLine("Aile muavinati: " + marriagePayment);
-                Console.WriteLine("Usaq pulu : " + childpayment);
+                if (status == "d")
+                {
+                    marriagePayment=0;
+                    Console.WriteLine("Aile muavinati: " + marriagePayment);
+                    Console.WriteLine("Usaq pulu : " + childpayment);
+                }
+                else 
+                { 
+                    Console.WriteLine("Aile muavinati: " + marriagePayment);
+                    Console.WriteLine("Usaq pulu : " + childpayment);
+                }
 
             }
 
